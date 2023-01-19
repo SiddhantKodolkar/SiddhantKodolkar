@@ -74,3 +74,20 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="ta
 <h2 align="left">Software:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+## Stats:
+
+<p align="center"><img alt="Siddhant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantKodolkar&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="500"/>
+
+ <table>
+  <tr>
+    <td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantKodolkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+   </td>
+   <td>  
+
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SiddhantKodolkar&theme=react&hide_border=true&stroke=0000&background=0000007)
+     </td>
+      </tr>
+  </table>
