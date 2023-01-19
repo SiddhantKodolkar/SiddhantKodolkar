@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddhant-kodolkar-927505203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhant-kodolkar-927505203/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siddhant-kodolkar-927505203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhant-kodolkar-927505203/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddhantkodolkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhantkodolkar" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/b2c62ef8-3669-4bb7-ac58-22c0afc2ac9f" target="blank"><img align="center" src="https://files.codingninjas.in/0000000000000723.jpg" alt="SiddhantKodolkar" height="30" width="40" /></a>
 </p>
