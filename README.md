@@ -77,8 +77,6 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="ta
 
 ## Stats:
 
-<p align="center"><img alt="Siddhant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantKodolkar&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="500"/>
-
  <table>
   <tr>
     <td>
