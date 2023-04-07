@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🔭 I’m currently working on **Building Web Applications with PHP**
+- 🔭 I’m currently working on **Building Web Applications with React.js**
 
-- 🤝 I’m looking for help with **Android Application Development**
+- 🤝 I’m looking for help with **Machine Learning Projects**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
