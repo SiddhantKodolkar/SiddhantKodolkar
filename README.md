@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Nodejs and Express**
+- 💬 Ask me about **Nodejs and Expressjs**
 
 - 📫 You can reach me at **kodolkar.siddhant19@gmail.com**
 
@@ -60,6 +60,9 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="ta
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+ 
+ - ### **Frameworks:**
+
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a>
  
 - ### **Mobile App:**
@@ -68,8 +71,8 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="ta
 
 <h2 align="left">Databases:</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+ 
 <h2 align="left">Software:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
