@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🔭 I’m currently working on **Building Web Applications with React.js**
+- 🔭 I’m currently working on **Next.js and Django REST Framework**
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 
 <h2 align="left">Languages:</h3>
- 
-[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30" alt="C" />](https://en.wikipedia.org/wiki/C_(programming_language))  [<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/120px-Java_programming_language_logo.svg.png" width="20" alt="C" />](https://en.wikipedia.org/wiki/Java_(programming_language))  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30" alt="CPP" />](https://en.wikipedia.org/wiki/cpp)  [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" alt="Python" />](https://www.python.org/)[<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)[<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="30" alt="Php" />](https://en.wikipedia.org/wiki/php)
+
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/120px-Java_programming_language_logo.svg.png" width="20" alt="C" />](https://en.wikipedia.org/wiki/Java_(programming_language))  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30" alt="CPP" />](https://en.wikipedia.org/wiki/cpp)  [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" alt="Python" />](https://www.python.org/)[<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)[<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="30" alt="Php" />](https://en.wikipedia.org/wiki/php)
 
 <h2 align="left">Development:</h3>
 
