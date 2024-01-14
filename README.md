@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🔭 I’m currently working on **Django REST Framework**
+- 🔭 I’m currently working on **Redux**
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
