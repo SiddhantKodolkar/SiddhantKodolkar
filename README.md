@@ -61,15 +61,14 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="ta
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+<a href="https://socket.io/" target="_blank" rel="noreferrer"> <img width="90" height="70" alt="socket" src="https://github.com/SiddhantKodolkar/SiddhantKodolkar/assets/111975032/50059f83-05e6-4017-990c-26b22b06eecf">
+
 
  
  - ### **Frameworks:**
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a>
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-<img src="https://github.com/SiddhantKodolkar/SiddhantKodolkar/assets/111975032/d9cf6cb4-cdb2-42ef-b6f9-0b23015b1793" alt="DRF Logo" width="100" height="40">
-</a>
+
 
 - ### **Mobile App:**
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
