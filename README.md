@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Nodejs and Expressjs**
 
-- 📫 You can reach me at **kodolkar.siddhant19@gmail.com**
+- 📫 You can reach me at **work.siddhant19@gmail.com**
 
 
 <h2 align="left">Connect with me:</h3>
