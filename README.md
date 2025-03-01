@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhantkodolkar&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantkodolkar" /> </p>
 
-- ⚡  **[My PortFolio Website]([https://siddhantkodolkar.github.io](https://nextjs-portfolio-one-lyart.vercel.app/))**
+- ⚡  **[My PortFolio Website]([https://siddhantkodolkar.github.io](https://nextjs-portfolio-one-lyart.vercel.app/)])**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
